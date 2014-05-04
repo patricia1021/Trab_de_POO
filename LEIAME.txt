@@ -1,0 +1,7 @@
+Para compilar o gerenciador de filmes, é necessário ter a plataforma Eclipse IDE e o pluggin Android Development Tools (ADT). Para compilá-lo, precisamos importar o projeto pronto e conectar um aparelho com plataforma java para baixar o .exe do projeto.
+Para executar o
+
+
+
+
+" O arquivo ZIP deve conter um arquivo README descrevendo os passos (e requisitos) para compilar e executar a aplicação. "
